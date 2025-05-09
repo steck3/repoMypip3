@@ -1,0 +1,7 @@
+README.md
+setup.py
+repoMypip3/__init__.py
+repoMypip3.egg-info/PKG-INFO
+repoMypip3.egg-info/SOURCES.txt
+repoMypip3.egg-info/dependency_links.txt
+repoMypip3.egg-info/top_level.txt
